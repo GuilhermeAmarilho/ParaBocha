@@ -1,4 +1,4 @@
-# 🧩 Parabocha – Simulador Educativo da Bocha Adaptada
+# 🧩 Parabocha
 
 **Parabocha** é um projeto de simulação interativa criado para a disciplina de **Paradigmas da Computação**. Inspirado no jogo tradicional de bocha, o sistema apresenta elementos de **educação, acessibilidade e ludicidade**, com foco em mecânicas de turnos, movimentação e física de lançamento.
 
